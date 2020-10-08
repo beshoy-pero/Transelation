@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Transelation</string>
+    <string-array name="lang">
+        <item>english</item>
+        <item>chinese</item>
+        <item>arabic</item>
+        <item>italian</item>
+        <item>france</item>
+        <item>japanese</item>
+        <item>latin</item>
+    </string-array>
+    <string-array name="lan">
+        <item>arabic</item>
+        <item>english</item>
+        <item>france</item>
+        <item>chinese</item>
+        <item>italian</item>
+        <item>japanese</item>
+        <item>latin</item>
+
+    </string-array>
+
+</resources>
+
